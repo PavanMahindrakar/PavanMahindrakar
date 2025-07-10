@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=PavanMahindrakar&label=Profile%20views&color=0e75b6&style=flat" alt="PavanMahindrakar" />
 </p>
 
-- 🌱 I’m currently learning **Machine Learning, DSA with C++, and Python**
+- 🌱 I’m currently learning **Data Science, DSA with C++, and Python**
 - 💬 Ask me about **Python, Flask, Machine Learning, React, Power BI**
 - 📫 How to reach me **pdmahindrakar@gmail.com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/pavanmahindrakar)
